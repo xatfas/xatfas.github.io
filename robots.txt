@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /img/*
+Sitemap: https://jfbk.nl/sitemap.xml
